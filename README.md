@@ -1,5 +1,5 @@
 ## **👋 Hi, I’m Kashish! (he/him)**
-📚 I’m currently a Computer Science student at the University of British Columbia. I have previously completed a B.Sc in Biology
+📚 I’m currently a Computer Science student at the University of British Columbia. I have previously completed a B.Sc in Biology.
 also at the University of British Columbia. I'm eager to learn new skills and seek new experiences in software development!
 
 🧑‍💻 Let's connect!
